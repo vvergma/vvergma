@@ -8,15 +8,6 @@ I'm a Web Designer and SEO Analyst based in Vancouver, BC. I specialize in build
 
 ---
 
-### ⚡ My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvergma&show_icons=true&theme=radical&hide_border=true" alt="vvergma's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvergma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🔒 Private Client Projects
 Developed the following projects, although the code is proprietary:
 
