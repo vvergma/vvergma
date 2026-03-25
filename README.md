@@ -12,7 +12,7 @@ I'm a Web Designer and SEO Analyst based in Vancouver, BC. I specialize in build
 Developed the following projects, although the code is proprietary:
 
 * **Smile A Lot Dental Centre Website** - [smilealot.ca](https://smilealot.ca)
-    * **Tech:** Bootstrap 5, JavaScript, CSS, Netlify, Google CLoud APIs for Maps and Recaptcha, Formspree
+    * **Tech:** HTML 5, Bootstrap 5, JavaScript, CSS, Netlify, Google Cloud APIs for Maps and Recaptcha, Formspree
     * **Role:** Full Frontend Design, On-Page & off-page SEO Optimization and Backlinking
     * **Highlights:** - 100% Website Score on Lighthouse Pageinsights for complete compliance with Google's Standards. Fast load times as tested by Pingdom.
 
